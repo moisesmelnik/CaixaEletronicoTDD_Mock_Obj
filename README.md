@@ -85,7 +85,7 @@ Este projeto foi desenvolvido como parte do curso:
 
 > **"Desenvolvimento de Software Guiado por Testes (TDD)"**,  
 > ministrado pelo **Instituto Tecnológico de Aeronáutica (ITA)**  
-> através da plataforma de ensino online.
+
 
 ---
 
